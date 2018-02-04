@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "909928230933",
+    "firebase_url": "https://currency-converter-1f3cc.firebaseio.com",
+    "project_id": "currency-converter-1f3cc",
+    "storage_bucket": "currency-converter-1f3cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909928230933:android:e735140a44586b3b",
+        "android_client_info": {
+          "package_name": "com.converter.phonegap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909928230933-mm0frqo5tnrgnf4l8dtf3skc0f8fk5ra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFeFAKYIUDX58S7pdShJA8aot-4eBmfgQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909928230933:android:6528d82a6215fdbf",
+        "android_client_info": {
+          "package_name": "com.converter.phonefree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909928230933-mm0frqo5tnrgnf4l8dtf3skc0f8fk5ra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFeFAKYIUDX58S7pdShJA8aot-4eBmfgQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
